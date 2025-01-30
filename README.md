@@ -14,6 +14,7 @@ demographics, service usage, contract details, and churn status.
 portion of customers leaving the service.
 
 • Demographic Insights:
+
 o Senior citizens account for 16% of the total customer base, yet they represent
 30% of those who churned, highlighting a higher churn rate among this group.
 
@@ -27,10 +28,12 @@ o Customers without internet service have the lowest churn rate at 10%, likely d
 to fewer service-related issues.
 
 • Contract Type:
+
 o Monthly contract customers show a 45% churn rate, while those on one-year and
 two-year contracts churn at only 11% and 5%, respectively.
 
 • Billing & Payment:
+
 o Customers using paperless billing churn at a rate of 35%, compared to 20% for
 those receiving paper bills.
 
@@ -38,6 +41,7 @@ o Electronic check payments are the least preferred, with a churn rate of 42%,
 whereas credit card and bank transfers have churn rates around 15-20%.
 
 • Tenure Impact:
+
 o Customers with tenure below 12 months have a 50% churn rate, emphasizing the
 importance of early customer engagement.
 
